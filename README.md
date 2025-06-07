@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 🧙🏼 Passionate game developer who loves recreating fun and engaging game mechanics!<br/>
 ⚔️ Documenting videos about personal projects, tech, and productivity on [YouTube](https://www.youtube.com/@PortfolioAccount-ru8rn)<br/>
 📜 I write beginner-friendly [Blogs](https://medium.com/@seemantadebdas) to help others start their game development journey.<br/>
-🎯 Currently recreating cool mechanics from Genshin Impact in Unity!<br/>
 
 ---
 
@@ -45,9 +44,11 @@ Here are some ideas to get you started:
 <!-- https://ytcards.demolab.com/?id=<video ID>&title=<video+title>&lang=en&timestamp=<video publish date in Unix time format>&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=<video duration in seconds> "<video title>") -->
 <!-- BEGIN YOUTUBE-CARDS -->
 
-[![Genshin Impact Environment and Audio (Unity 3d)](https://ytcards.demolab.com/?id=eAeFn0kNlqA&title=Genshin+Impact+Environment+and+Audio+(Unity+3d)&lang=en&timestamp=1722470400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=70 "Genshin Impact Environment and Audio (Unity 3d)")](https://youtu.be/eAeFn0kNlqA?si=zPsMBc6ukNFlw_Yc)
-[![RPG Level Test](https://ytcards.demolab.com/?id=p2X_nApiCA0&title=RPG+Level+Test&lang=en&timestamp=1716336000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=145 "RPG Level Test")](https://youtu.be/p2X_nApiCA0?si=wi8SC4Md0VXkSBV3)
-[![Phantom Panic: Cemetery Siege](https://ytcards.demolab.com/?id=20ekUiqE_6g&title=Phantom+Panic:+Cemetery+Siege&lang=en&timestamp=1717545600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=65 "Phantom Panic: Cemetery Siege")](https://youtu.be/20ekUiqE_6g?si=pBVLCY9Sw4HCICll)
+[![Quest System Demo](https://ytcards.demolab.com/?id=W0RbNd481cw&title=Quest+System+Demo&lang=en&timestamp=1717545600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=65 "Quest System Demo")](https://youtu.be/W0RbNd481cw?si=gQUDYk5rtBnPSAqN)
+[![Genshin Impact Clone](https://ytcards.demolab.com/?id=_yKqTsXCVeU&title=Genshin+Impact+Clone&lang=en&timestamp=1717545600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=65 "Genshin Impact Clone")](https://youtu.be/_yKqTsXCVeU?si=v9YrILbX6aLgl7uH)
+[![Pop Goes the Frog](https://ytcards.demolab.com/?id=UOnX3CzgDAk&title=Pop+Goes+the+Frog&lang=en&timestamp=1717545600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=65 "Pop Goes the Frog")](https://youtu.be/UOnX3CzgDAk?si=CUEN16a45n6rqBMv)
+
+
 <!-- END YOUTUBE-CARDS -->
 
 #
